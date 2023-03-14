@@ -2,7 +2,7 @@ package EJERCICIOS;
 
 import java.util.Scanner;
 
-public class Ejercicio5_Dia1 {
+public class Ejercicio_05 {
    
     public static void main(String[] args) {
         double numero;
